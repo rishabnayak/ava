@@ -1,0 +1,115 @@
+.carousel-inner{
+  width:100%;
+  max-height: 500px ;
+}
+
+.paddingClass{
+	padding-right: 50px;
+}
+
+.navbar{
+	height: 50px;
+}
+
+.paddingTop{
+	padding-top: 50px;
+}
+.imgHeight{
+	height:500px;
+}
+
+.paddingBelow{
+	padding-bottom: 170px;
+}
+
+.videoPaddingBelow{
+	padding-bottom: 25px;
+}
+
+.iconClass{
+	font-size: 1px;
+}
+
+.jumbotron{
+	padding: 0.5em 0.6em;
+}
+
+#jumbotronheading{
+	text-align: center;
+}
+
+#jHeight{
+	height: 90px;
+}
+
+button{
+	margin: auto;
+}
+
+#formId{
+	padding: 10px;
+	border:1px solid #636466;
+	border-radius: 10px;
+}
+
+#bodyId{
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+#formHeading{
+	padding-top: 60px;
+	text-align: center;
+}
+
+.instructionHeading{
+	padding-top: 70px;
+	text-align: justify;
+}
+
+#videoId{
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+#headingId{
+	padding-top: 20px;
+}
+
+#oneJumbo{
+	padding-top: 50px;
+}
+
+#bodyDiv{
+	width: 80%;
+	text-align: center;
+}
+
+#resultBodyDiv{
+	text-align: center;
+	width: 80%;
+	margin: auto;
+	margin-top: 70px;
+}
+
+.rowAlignment{
+	padding-top:50%;
+}
+
+.imageAlignment{
+	padding: 0 auto;
+}
+
+.headingAlignment{
+	margin: auto;
+}
+
+.fontColor{
+	color: #000000;
+}
+
+#documentationBody{
+	padding-top: 70px;	
+	padding-left: 25px;
+	padding-right: 25px;
+}
