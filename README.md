@@ -41,7 +41,7 @@ The user visits our website/app and is taken through a simple questionnaire wher
 
 Before you can run or deploy the sample, you need to do the following:
 
-    With `npm`:
+ With `npm`:
 
         npm install
 
