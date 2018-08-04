@@ -1,7 +1,7 @@
 # ava
 a personal healthcare assistant
 
-* [Intro] (#introduction)
+* [Intro](#introduction)
 * [Setup](#setup)
 * [Running](#running)
 
