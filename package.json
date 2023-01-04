@@ -37,7 +37,7 @@
     "text-to-speech-js": "^1.1.8"
   },
   "devDependencies": {
-    "@google-cloud/nodejs-repo-tools": "1.4.17",
+    "@google-cloud/nodejs-repo-tools": "3.3.0",
     "ws": "3.3.2"
   },
   "cloud-repo-tools": {
